@@ -1,4 +1,4 @@
-# top-restaurantPage
+# Webpack template
 
 [live demo]()
 
